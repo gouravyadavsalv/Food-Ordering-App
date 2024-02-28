@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity() {
             }
             if (burger!!.isChecked) {
                 result.append("\nBurger 120Rs")
-                totalamount += 120
+                totalamount += 140
             }
             result.append(
                 """
